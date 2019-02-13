@@ -1,1 +1,0 @@
-# talk-on-seminar-numpy
