@@ -1,5 +1,5 @@
 
-<!-- ![poster](./45%EC%B0%A8_python_numpy_%EA%B8%B0%EB%B3%B8%EA%B8%B0_%EB%8B%A4%EC%A7%80%EA%B8%B0.png) -->
+![poster](./45%EC%B0%A8_python_numpy_%EA%B8%B0%EB%B3%B8%EA%B8%B0_%EB%8B%A4%EC%A7%80%EA%B8%B0.png)
 
 # Python NumPy 기본기 다지기
 
